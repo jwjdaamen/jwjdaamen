@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stack](https://skillicons.dev/icons?i=html,css,sass,js,php,wordpress,vue,nuxt,git,ps,ai,xd,ae&perline=8)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,php,wordpress,vue,nuxt,ps,ai,xd,ae,bootstrap,git,github&perline=9)](https://skillicons.dev)
