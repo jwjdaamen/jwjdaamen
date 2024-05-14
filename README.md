@@ -1,4 +1,4 @@
-### Hallo! 👋 Ik ben Jordy: ondernemer en digitale duizendpoot.
+### Hallo! 👋 Ik ben Jordy. Ondernemer en digitale duizendpoot.
 
 <!--
 **jwjdaamen/jwjdaamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
